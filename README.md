@@ -9,7 +9,7 @@ Learning from imbalanced data and data stream mining are among most popular area
 ## Citation
 ```
 @INPROCEEDINGS{Korycki:2020osamp,
-  author={Korycki, Łukasz and Krawczyk, Bartosz},
+  author={Korycki, Lukasz and Krawczyk, Bartosz},
   booktitle={2020 International Joint Conference on Neural Networks (IJCNN)}, 
   title={Online Oversampling for Sparsely Labeled Imbalanced and Non-Stationary Data Streams}, 
   year={2020},
